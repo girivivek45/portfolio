@@ -1,0 +1,173 @@
+body{
+  background-color: #FFE898;
+
+
+}
+
+
+
+.photu{
+  width: 11%;
+  position: absolute;
+  top: 10%;
+  left: 43%;
+}
+.h1{
+  position: absolute;
+  top: 33%;
+  left: 44%;
+
+  font-family: sans-serif;
+}
+.h2{
+
+  color: grey;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+
+}
+.utub{
+  height: 8%;
+  position: absolute;
+
+  top: 40%;
+  left: 38%;
+}
+.twitter{
+  height: 4.5%;
+  position: absolute;
+  top: 48.8%;
+  left: 48.5%;
+
+}
+.mail{
+  height: 7%;
+  position: absolute;
+  top: 47%;
+  left: 55%;
+
+}
+.linkedin{
+  height: 5%;
+  position: absolute;
+  left: 38%;
+  top: 59%;
+
+
+}
+.quora{
+  height: 6%;
+  position:absolute;
+  left: 37.7%;
+  top: 67%;
+
+
+}
+.github{
+  height: 6.5%;
+  position: absolute;
+  left: 37.7%;
+  top: 76%;
+
+}
+.insta{
+  height: 5%;
+  position: absolute;
+  left: 38.1%;
+  top: 85%;
+
+}
+.stars {
+
+  width: 6%;
+   border-style: dotted none none;
+   border-width: 6px;
+   border-color: red;
+   position: absolute;
+   top: 54.7%;
+   left: 46.5%;
+
+
+}
+.utub {
+  padding: 50px;
+  transition: transform .2s;
+
+}
+
+.utub:hover {
+  transform: scale(1.5);
+}
+
+.twitter{
+
+  transition: transform .2s;
+}
+.twitter:hover {
+  transform: scale(1.5);
+}
+.mail{
+
+  transition: transform .2s;
+}
+.mail:hover {
+  transform: scale(1.5);
+}
+
+.linkedin:hover{
+  transform: translate(-10px);
+}
+
+.github:hover{
+  transform: translate(-10px);
+}
+.quora:hover{
+  transform: translate(-10px);
+}
+.insta:hover{
+  transform: translate(-10px);
+}
+.hui{
+  color: #150050;
+
+}
+
+.l1{
+
+  position: absolute;
+  left: 42%;
+  top: 57%;
+  transition: transform .2s;
+}
+.l1:hover{
+  transform: scale(1.5);
+}
+.l2{
+  position: absolute;
+  left: 42%;
+  top: 66%;
+  transition: transform .2s;
+}
+.l2:hover{
+  transform: scale(1.5);
+}
+
+.l3{
+  position: absolute;
+  left: 42%;
+  top: 74%;
+  transition: transform .2s;
+}
+.l3:hover{
+  transform: scale(1.5);
+}
+.l4{
+  position: absolute;
+  left: 42%;
+  top: 83%;
+  transition: transform .2s;
+}
+.l4:hover{
+  transform: scale(1.5);
+}
